@@ -43,7 +43,7 @@ public class Text02 {
         Random r = new Random();
         for (int i = 0; i < 4; i++) {
             //随即索引
-            int index1 = r.nextInt();
+            int index1 = r.nextInt(26);
             char c1=list.get(index1);
             sb.append(c1);
         }
@@ -52,6 +52,7 @@ public class Text02 {
 
     public static String dislocate(String str) {
         char[] c = str.toCharArray();
+
         Random r = new Random();
         //产生一个随机索引,进行交换
         char str1;

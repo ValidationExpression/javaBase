@@ -1,0 +1,4 @@
+elasticearch
+flink
+kafka
+kibana

@@ -20,6 +20,16 @@
       <module fileurl="file://$PROJECT_DIR$/day16_time/day16_time.iml" filepath="$PROJECT_DIR$/day16_time/day16_time.iml" />
       <module fileurl="file://$PROJECT_DIR$/day17_SuanFa/day17_SuanFa.iml" filepath="$PROJECT_DIR$/day17_SuanFa/day17_SuanFa.iml" />
       <module fileurl="file://$PROJECT_DIR$/day18_Lambda/day18_Lambda.iml" filepath="$PROJECT_DIR$/day18_Lambda/day18_Lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day19_fanxing/day19_fanxing.iml" filepath="$PROJECT_DIR$/day19_fanxing/day19_fanxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day20_set/day20_set.iml" filepath="$PROJECT_DIR$/day20_set/day20_set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day21_hashMap/day21_hashMap.iml" filepath="$PROJECT_DIR$/day21_hashMap/day21_hashMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day22_test/day22_test.iml" filepath="$PROJECT_DIR$/day22_test/day22_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day23_douDiZhu/day23_douDiZhu.iml" filepath="$PROJECT_DIR$/day23_douDiZhu/day23_douDiZhu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day24_Stream/day24_Stream.iml" filepath="$PROJECT_DIR$/day24_Stream/day24_Stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day25_File/day25_File.iml" filepath="$PROJECT_DIR$/day25_File/day25_File.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day26_io/day26_io.iml" filepath="$PROJECT_DIR$/day26_io/day26_io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day26_project/day26_project.iml" filepath="$PROJECT_DIR$/day26_project/day26_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/likou_dome/likou_dome.iml" filepath="$PROJECT_DIR$/likou_dome/likou_dome.iml" />
     </modules>
   </component>
 </project>

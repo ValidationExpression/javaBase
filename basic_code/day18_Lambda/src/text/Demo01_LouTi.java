@@ -7,6 +7,7 @@ package text;
 public class Demo01_LouTi {
     public static void main(String[] args) {
         System.out.println(getCount(20));
+        System.out.println(climbStairs(45));
     }
 
     public static int getCount(int num){
@@ -22,5 +23,14 @@ public class Demo01_LouTi {
         }else {
             return getCount(num-1)+getCount(num-2)+getCount(num-3);
         }
+    }
+
+
+    public static int climbStairs(int n) {
+        if(n==1||n==2){
+            return n;
+        }
+        return climbStairs(n-1)+climbStairs(n-2);
+
     }
 }
